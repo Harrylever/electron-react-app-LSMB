@@ -1,0 +1,6 @@
+-- Set minHeight and minWidth
+-- Import Google fonts
+
+
+function 1 check validity on email
+function 2 setEmailAddress variable with (e) => setEmailAddress(e.target.value)
